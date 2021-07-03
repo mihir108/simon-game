@@ -1,0 +1,2 @@
+Its a simple simon-game developed using HTML, CSS and vanila javascript in which it simply stores the random generated move in every level 
+and you have to trace all the moves from the begining correctly to complete the level and the same process goes on until you fail.
